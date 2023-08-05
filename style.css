@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+
+input {
+  width: 10%;
+  justify-content: center;
+  display: flex;
+  margin: 0px auto;
+  padding: 10px 30px;
+  border-radius: 20px;
+  font-family: 'Poppins',sans-serif;
+}
